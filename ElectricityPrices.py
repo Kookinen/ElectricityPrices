@@ -5,7 +5,7 @@ import requests
 import xml.etree.ElementTree as ET
 
 # GET /api?documentType=A44&in_Domain=10YFI-1--------U&out_Domain=10YFI-1--------U&periodStart=
-API_CALL = "https://web-api.tp.entsoe.eu/api?securityToken=560bf908-9bf2-4293-9fbc-312cdc6c83f1&documentType=A44&in_Domain=10YFI-1--------U&out_Domain=10YFI-1--------U"
+API_CALL = "https://web-api.tp.entsoe.eu/api?securityToken=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&documentType=A44&in_Domain=10YFI-1--------U&out_Domain=10YFI-1--------U"
 TESTDATE1 = "20230601"
 TESTDATE2 = "20221231"
 START_TIME = "0100"
